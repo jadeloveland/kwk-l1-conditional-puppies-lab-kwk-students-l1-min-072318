@@ -1,8 +1,8 @@
 def no_puppies(puppies)
   if puppies > 1 
-    puts "No more puppies!"
+    return "No more puppies!"
   elsif puppies == 0 
-    puts"Well done, Rachel!"
+    return "Well done, Rachel!"
  end
 end
 
@@ -10,7 +10,8 @@ no_puppies(0)
 no_puppies(2)
 
 def less_puppies(puppies) 
-  if puppies 
+  if puppies < 3
+    puts 
 
 
 
