@@ -24,7 +24,7 @@
 # less_puppies(4)
 
 
-some_puppies(puppies) that takes in two arguments - the number of puppies she has found and a maximum puppy allowance. This method should tell Rachel good job if she gets less than half her maximum allowance and to get back on her puppy restriction when she exceeds her maximum.
+# some_puppies(puppies, maximum_puppies) that takes in two arguments - the number of puppies she has found and a maximum puppy allowance. This method should tell Rachel good job if she gets less than half her maximum allowance and to get back on her puppy restriction when she exceeds her maximum.
 
 
 
