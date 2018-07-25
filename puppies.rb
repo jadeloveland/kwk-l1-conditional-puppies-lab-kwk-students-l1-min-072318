@@ -1,6 +1,8 @@
 def no_puppies(puppies)
   if puppies > 1 
-    "No more puppies!" otherwise it should return "Well done, Rachel!"
+    puts "No more puppies!"
+  elsif puppies == 0 
+  "Well done, Rachel!"
 
 
 
